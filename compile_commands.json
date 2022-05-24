@@ -1,0 +1,15 @@
+[
+ {
+  "directory": "/home/developer/Documents/Developer/C/playground",
+  "arguments": [
+   "gcc",
+   "-c",
+   "-I./src/lib/libtomcrypt-1.18.2/src/headers/",
+   "/usr/include/openssl/",
+   "./src/main.c",
+   "-o",
+   "main.o"
+  ],
+  "file": "./src/main.c"
+ }
+]
